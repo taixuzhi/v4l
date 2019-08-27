@@ -1,0 +1,3 @@
+/home/tangzhihua/gitlab/zed/v4l/build/CMakeFiles/rebuild_cache.dir
+/home/tangzhihua/gitlab/zed/v4l/build/CMakeFiles/v4l.dir
+/home/tangzhihua/gitlab/zed/v4l/build/CMakeFiles/edit_cache.dir

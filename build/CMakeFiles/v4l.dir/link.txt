@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/v4l.dir/src/main.cpp.o CMakeFiles/v4l.dir/src/v4l.cpp.o  -o v4l 
